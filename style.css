@@ -42,7 +42,7 @@ html,body{
 }
 #front{
     transform: rotateY(0deg);
-    background-image:url(/mydarkPic);
+    background-image:url(/mydarkPic.webp);
     background-repeat: none;
     background-position: center;
     background-size: cover;
