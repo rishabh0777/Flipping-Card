@@ -45,7 +45,7 @@ html,body{
     color:#fff;
     box-shadow: 1em 1.7em 1em #222;
     overflow: hidden;
-    background-image:url(mydarkPic.webp);
+    background-image:url(./image/mydarkPic.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
